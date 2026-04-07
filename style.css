@@ -12,11 +12,15 @@
     background-color: #000;
 }
 .adress{
-    padding:20px;
+    margin-bottom:30px
     
 }
 .title
 {
+.btnn{
+    margin-top:20px;
+    
+}
  /* display: inline-block; */
   padding: 12px 25px;
   font-size: 22px;
