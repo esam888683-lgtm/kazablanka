@@ -11,7 +11,10 @@
 {
     background-color: #000;
 }
-
+.adress{
+    padding-top:10px;
+    padding-bottom:10px;
+}
 .title
 {
  /* display: inline-block; */
